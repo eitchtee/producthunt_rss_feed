@@ -185,7 +185,8 @@ class ProductHunt:
 
         for product in products:
             fg.add_entry(product.feed_entry)
-        fg.atom_file("teste.atom", pretty=True)
+
+        fg.atom_file(f"../feeds/{slug}.atom", pretty=True)
 
 
 if __name__ == "__main__":
