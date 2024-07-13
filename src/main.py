@@ -114,6 +114,7 @@ class ProductHunt:
                     featuredAt
                     createdAt
                     url
+                    website
                 }
                 pageInfo {
                   hasNextPage
