@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.producthunt.com/</id>
   <title>Product Hunt - Featured</title>
-  <updated>2024-07-13T07:55:38.418984+00:00</updated>
+  <updated>2024-07-13T08:02:19.869220+00:00</updated>
   <author>
     <name>Product Hunt</name>
   </author>
@@ -59,27 +59,27 @@ All-in-one affiliate marketing software for your SaaS
     <published>2024-07-12T07:01:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.producthunt.com/posts/telescope-b2d1fe71-5d26-4c04-a2ff-544e59828902?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Telescope - Find the right people in seconds</title>
+    <id>https://www.producthunt.com/posts/typeflowai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>TypeflowAI - Build AI tools in minutes without coding</title>
     <updated>2024-07-12T07:01:00+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
     <content type="html">
-&lt;b&gt;Telescope&lt;/b&gt;
+&lt;b&gt;TypeflowAI&lt;/b&gt;
 &lt;br /&gt;
-Find the right people in seconds
+Build AI tools in minutes without coding
 &lt;br /&gt;
-🔼 669 votes
+🔼 184 votes
 &lt;br/&gt;
 &lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/telescope-b2d1fe71-5d26-4c04-a2ff-544e59828902?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;a href="https://www.producthunt.com/posts/typeflowai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/TYD5MIDRM66PNK?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;
+&lt;a href="https://www.producthunt.com/r/RGUWD45GWF77BK?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;
         </content>
-    <link href="https://www.producthunt.com/posts/telescope-b2d1fe71-5d26-4c04-a2ff-544e59828902?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Find the right people in seconds</summary>
+    <link href="https://www.producthunt.com/posts/typeflowai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Build AI tools in minutes without coding</summary>
     <published>2024-07-12T07:01:00+00:00</published>
   </entry>
   <entry>
@@ -203,6 +203,30 @@ Simple way to visualize your product architecture
     <published>2024-07-12T07:01:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.producthunt.com/posts/bleep-that-sh-t?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Bleep That Sh*t! - A whisper app that bleeps out chosen words in YouTube videos</title>
+    <updated>2024-07-12T07:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">
+&lt;b&gt;Bleep That Sh*t!&lt;/b&gt;
+&lt;br /&gt;
+A whisper app that bleeps out chosen words in YouTube videos
+&lt;br /&gt;
+🔼 94 votes
+&lt;br/&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/bleep-that-sh-t?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/LE3J5AEHATEHP5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;
+        </content>
+    <link href="https://www.producthunt.com/posts/bleep-that-sh-t?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>A whisper app that bleeps out chosen words in YouTube videos</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.producthunt.com/posts/datech-shopsync?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Datech ShopSync - Easily sync your TikTok shop with Shopify</title>
     <updated>2024-07-12T07:01:00+00:00</updated>
@@ -224,30 +248,6 @@ Easily sync your TikTok shop with Shopify
         </content>
     <link href="https://www.producthunt.com/posts/datech-shopsync?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
     <summary>Easily sync your TikTok shop with Shopify</summary>
-    <published>2024-07-12T07:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/supergpt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>SuperGPT - Use ChatGPT on Google Sheets</title>
-    <updated>2024-07-12T07:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">
-&lt;b&gt;SuperGPT&lt;/b&gt;
-&lt;br /&gt;
-Use ChatGPT on Google Sheets
-&lt;br /&gt;
-🔼 862 votes
-&lt;br/&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/supergpt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/7VR2WPRW6MOP5I?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;
-        </content>
-    <link href="https://www.producthunt.com/posts/supergpt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Use ChatGPT on Google Sheets</summary>
     <published>2024-07-12T07:01:00+00:00</published>
   </entry>
   <entry>
