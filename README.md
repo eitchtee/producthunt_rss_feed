@@ -1,22 +1,18 @@
 # Product Hunt RSS Feed
 The missing feeds for Product Hunt
 
-[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=Featured)](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/all-featured.atom)
-[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=All)](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/all.atom)
-[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=Top%2010%20Featured)](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/top-10-featured.atom)
-[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=Top%2010%20Voted)](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/top-10-voted.atom)
+[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=Featured)](https://raw.githack.com/eitchtee/producthunt_rss_feed/main/feeds/all-featured.atom)
+[![](https://badgen.net/badge/icon/RSS/orange?icon=rss&label=All)](https://raw.githack.com/eitchtee/producthunt_rss_feed/main/feeds/all.atom)
 
 ## How to subscribe
 
 - Pick your RSS Feed
-    - [Featured](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/all-featured.atom) 
-    - [All](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/all.atom) 
-    - [Top 10 Featured](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/top-10-featured.atom) 
-    - [Top 10 Voted](https://cdn.statically.io/gh/eitchtee/producthunt_rss_feed/main/feeds/top-10-voted.atom) 
+    - [Featured](https://raw.githack.com/eitchtee/producthunt_rss_feed/main/feeds/all-featured.atom) 
+    - [All](https://raw.githack.com/eitchtee/producthunt_rss_feed/main/feeds/all.atom)
 - Add the url to your favorite feed reader
 
 > [!NOTE]  
-> We use [statically.io](https://statically.io/) for serving the RSS due to github's `text/plain` mimetype breaking 
+> We use [githack.com](https://raw.githack.com) for serving the RSS due to github's `text/plain` mimetype breaking 
 > some feed readers. You can find the full feed content files [here](https://github.com/eitchtee/producthunt_rss_feed/tree/main/feeds).
 
 ## Considerations
