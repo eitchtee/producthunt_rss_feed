@@ -100,12 +100,13 @@ class ProductHunt:
 
         cursor = ""
         has_next_page = True
-        date = (datetime.today() - timedelta(days=1)).strftime("%Y-%m-%d")
+        date_after = (datetime.today() - timedelta(days=1)).strftime("%Y-%m-%d")
+        date_before = datetime.today().strftime("%Y-%m-%d")
 
         while has_next_page:
             query = """
             {
-              posts(order: FEATURED_AT, postedAfter: "%s", after: "%s" ) {
+              posts(order: FEATURED_AT, postedAfter: "%s", postedBefore: "%s", after: "%s" ) {
                   nodes {
                     id
                     name
@@ -123,7 +124,8 @@ class ProductHunt:
               }
             }
             """ % (
-                date,
+                date_after,
+                date_before,
                 cursor,
             )
 
