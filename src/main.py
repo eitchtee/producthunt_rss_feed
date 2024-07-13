@@ -144,7 +144,7 @@ class ProductHunt:
     def _get_products(
         self,
         max_items: int = 0,
-        sort_by: Literal["votes", "featured_at"] = "featured_at",
+        sort_by: Literal["votes", "featured"] = "featured",
         *args,
         **kwargs,
     ):
