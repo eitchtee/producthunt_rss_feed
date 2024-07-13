@@ -16,8 +16,8 @@ The missing feeds for Product Hunt
 - Add the url to your favorite feed reader
 
 > [!NOTE]  
-> We use [statically.io](https://statically.io/) for serving the RSS due to github's plain/text mimetype breaking 
-> some feed readers. You can find the full feed content [here](https://github.com/eitchtee/producthunt_rss_feed/tree/main/feeds)
+> We use [statically.io](https://statically.io/) for serving the RSS due to github's `text/plain` mimetype breaking 
+> some feed readers. You can find the full feed content files [here](https://github.com/eitchtee/producthunt_rss_feed/tree/main/feeds).
 
 ## Considerations
 - Feeds are updated hourly
