@@ -193,8 +193,8 @@ if __name__ == "__main__":
     ph = ProductHunt()
     ph.generate_feed(title="All", slug="all", max_items=0, sort_by="votes")
     ph.generate_feed(
-        title="Top 10 most voted",
-        slug="top-10-most-voted",
+        title="Top 10 voted",
+        slug="top-10-voted",
         max_items=10,
         sort_by="votes",
     )
