@@ -168,12 +168,17 @@ class ProductHunt:
         return items
 
     def generate_feed(self, *args, **kwargs):
+        title = kwargs.pop("title", "")
+        slug = kwargs.pop("slug", "atom")
+        full_title = f"Product Hunt - {title}"
+
         fg = FeedGenerator()
         fg.id("https://www.producthunt.com/")
-        fg.title("Some Testfeed")
-        fg.author([{"name": "Product Hunt"}, {"name": "Herculino Trotta"}])
+        fg.title(full_title)
+        fg.author({"name": "Product Hunt"})
         fg.logo("https://ph-static.imgix.net/ph-favicon-coral.ico")
-        fg.subtitle("This is a cool feed!")
+        fg.icon("https://ph-static.imgix.net/ph-favicon-coral.ico")
+        fg.subtitle(title)
         fg.language("en")
 
         products = self._get_products(*args, **kwargs)
