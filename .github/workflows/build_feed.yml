@@ -16,10 +16,11 @@ jobs:
       contents: write
 
     steps:
-      - name: Get current date
-        id: date
+      - name: "Set current date as env variable"
         run: |
-          echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_ENV
+          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        id: date  # this is used on variable path
+
 
       - uses: actions/checkout@v4
         with:
@@ -46,4 +47,4 @@ jobs:
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Daily feed update for ${{ env.date }}
+          commit_message: Daily feed update for ${{ steps.date.outputs.date }}
