@@ -1,0 +1,49 @@
+name: Daily Feed Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 8 * * *"
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    name: Generate feed
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - name: Get current date
+        id: date
+        run: |
+          echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_STATE
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Execute script
+        env:
+          PH_CLIENT_ID: ${{ secrets.PH_CLIENT_ID }}
+          PH_CLIENT_SECRET: ${{ secrets.PH_CLIENT_SECRET }}
+        run: python ./src/main.py
+        working-directory: ./src
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Daily feed update for ${{ env.date }}
