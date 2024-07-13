@@ -40,7 +40,7 @@ jobs:
         env:
           PH_CLIENT_ID: ${{ secrets.PH_CLIENT_ID }}
           PH_CLIENT_SECRET: ${{ secrets.PH_CLIENT_SECRET }}
-        run: python ./src/main.py
+        run: python main.py
         working-directory: ./src
 
       # Commit all changed files back to the repository
