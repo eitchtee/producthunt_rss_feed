@@ -1,9 +1,9 @@
-name: Daily Feed Build
+name: Hourly Feed Build
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 8 * * *"
+    - cron: "30 */1 * * *"
 
 jobs:
   generate-feed:
@@ -45,6 +45,7 @@ jobs:
         working-directory: ./src
 
       # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Daily feed update for ${{ steps.date.outputs.date }}
