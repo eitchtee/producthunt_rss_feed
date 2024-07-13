@@ -17,6 +17,7 @@ class Product:
         votesCount: int,
         featuredAt: str | None,
         createdAt: str | None,
+        website: str,
         **kwargs,
     ):
         self.name = name
@@ -26,6 +27,9 @@ class Product:
         self.featured_at = datetime.fromisoformat(featuredAt) if featuredAt else None
         self.created_at = datetime.fromisoformat(createdAt) if createdAt else None
         self.id = id
+        self.website = website
+
+        self.full_name = f"{self.name} - {self.tagline}"
 
         self.__dict__.update(kwargs)  # Add kwargs as class attributes just in case
 
@@ -36,9 +40,25 @@ class Product:
         fe.summary(self.tagline)
         fe.published(self.created_at)
         fe.updated(self.featured_at)
-        fe.title(self.name)
+        fe.title(self.full_name)
         fe.id(self.url)
-        fe.link({"href": self.url})
+        fe.link({"href": self.url, "title": "Product Hunt", "rel": "alternate"})
+        fe.content(
+            f"""
+<b>{self.name}</b>
+<br />
+{self.tagline}
+<br />
+🔼 {self.votes_count} votes
+<br/>
+<br/> 
+<a href="{self.url}">[Product Hunt page]</a>
+<br />
+<br />
+<a href="{self.website}">[Website]</a>
+        """,
+            type="html",
+        )
 
         return fe
 
