@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.producthunt.com</id>
+  <title>Some Testfeed</title>
+  <updated>2024-07-13T05:35:28.947674+00:00</updated>
+  <author>
+    <name>Product Hunt</name>
+  </author>
+  <author>
+    <name>Herculino Trotta</name>
+  </author>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://ph-static.imgix.net/ph-favicon-coral.ico</logo>
+  <subtitle>This is a cool feed!</subtitle>
+  <entry>
+    <id>https://www.producthunt.com/posts/endless-tools?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Endless Tools</title>
+    <updated>2024-07-12T07:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/endless-tools?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Shortcut for creating graphic design</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/sacred-seconds-spacial-clocks?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Sacred Seconds: Spacial Clocks</title>
+    <updated>2024-07-12T07:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/sacred-seconds-spacial-clocks?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Transform spaces with time</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/impact-diary?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Impact Diary</title>
+    <updated>2024-07-12T07:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/impact-diary?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>All-in-one productivity tool for productive individuals</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/supergpt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>SuperGPT</title>
+    <updated>2024-07-12T07:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/supergpt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Use ChatGPT on Google Sheets</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/docscube-2-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>DocsCube 2.0</title>
+    <updated>2024-07-12T07:08:10+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/docscube-2-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Sign more deals faster with B2B Deal Rooms</summary>
+    <published>2024-07-12T07:08:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/feedback-wizard-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Feedback Wizard AI</title>
+    <updated>2024-07-12T08:58:12+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/feedback-wizard-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Instant design feedback, right within Figma</summary>
+    <published>2024-07-12T08:58:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/sensible-inventory-forecasting?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Sensible Inventory Forecasting</title>
+    <updated>2024-07-12T09:01:30+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/sensible-inventory-forecasting?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Inventory planning for small / medium size Shopify stores</summary>
+    <published>2024-07-12T09:01:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/kushoai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>KushoAI</title>
+    <updated>2024-07-12T11:46:35+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/kushoai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Fastest way to test your APIs</summary>
+    <published>2024-07-12T11:46:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/voronoi?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Voronoi</title>
+    <updated>2024-07-12T12:00:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/voronoi?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Discover data-driven visuals that help explain the world</summary>
+    <published>2024-07-12T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/vevy-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>vevy.ai</title>
+    <updated>2024-07-12T16:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <link href="https://www.producthunt.com/posts/vevy-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>co-marketing platform for founders &amp; marketers</summary>
+    <published>2024-07-12T16:01:00+00:00</published>
+  </entry>
+</feed>
