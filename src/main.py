@@ -105,7 +105,7 @@ class ProductHunt:
         while has_next_page:
             query = """
             {
-              posts(order: FEATURED_AT, postedAfter: "%s", postedBefore: "%s", after: "%s" ) {
+              posts(order: FEATURED_AT, postedAfter: "%s", after: "%s" ) {
                   nodes {
                     id
                     name
