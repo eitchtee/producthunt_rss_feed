@@ -156,7 +156,7 @@ class ProductHunt:
 
         if sort_by == "votes":
             items = sorted(self.products, key=sort_by_vote, reverse=True)
-        elif sort_by == "featured_at":
+        elif sort_by == "featured":
             items = [product for product in self.products if product.featured_at]
             items = sorted(items, key=sort_by_featured_at, reverse=True)
         else:
