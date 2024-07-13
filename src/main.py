@@ -100,8 +100,7 @@ class ProductHunt:
 
         cursor = ""
         has_next_page = True
-        date_after = (datetime.today() - timedelta(days=4)).strftime("%Y-%m-%d")
-        date_before = datetime.today().strftime("%Y-%m-%d")
+        date_after = (datetime.today() - timedelta(days=3)).strftime("%Y-%m-%d")
 
         while has_next_page:
             query = """
@@ -125,7 +124,6 @@ class ProductHunt:
             }
             """ % (
                 date_after,
-                date_before,
                 cursor,
             )
 
