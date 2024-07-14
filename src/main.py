@@ -176,6 +176,10 @@ class ProductHunt:
         fg.icon("https://ph-static.imgix.net/ph-favicon-coral.ico")
         fg.subtitle(title)
         fg.language("en")
+        fg.link(
+            href=f"https://raw.githack.com/eitchtee/producthunt_rss_feed/main/feeds/{slug}.atom",
+            rel="self",
+        )
 
         products = self._get_products(*args, **kwargs)
 
