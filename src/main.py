@@ -102,7 +102,7 @@ class ProductHunt:
         while has_next_page:
             query = """
             {
-              posts(order: FEATURED_AT, postedAfter: "%s", after: "%s" ) {
+              posts(order: VOTES, postedAfter: "%s", after: "%s" ) {
                   nodes {
                     id
                     name
@@ -143,26 +143,23 @@ class ProductHunt:
     def _get_products(
         self,
         max_items: int = 0,
-        sort_by: Literal["votes", "featured"] = "featured",
+        only_featured: bool = True,
         *args,
         **kwargs,
     ):
-        def sort_by_vote(e: Product):
-            return e.votes_count
-
-        def sort_by_featured_at(e: Product):
-            return e.featured_at
-
-        if sort_by == "votes":
-            items = sorted(self.products, key=sort_by_vote, reverse=True)
-        elif sort_by == "featured":
+        if only_featured:
             items = [product for product in self.products if product.featured_at]
-            items = sorted(items, key=sort_by_featured_at, reverse=True)
         else:
             items = self.products
 
+        items = sorted(
+            items,
+            key=lambda x: (x.created_at, x.name, x.id),
+            reverse=True,
+        )
+
         if max_items > 0:
-            items = items[:max_items]
+            return items[:max_items]
 
         return items
 
@@ -183,14 +180,14 @@ class ProductHunt:
         products = self._get_products(*args, **kwargs)
 
         for product in products:
-            fg.add_entry(product.feed_entry)
+            fg.add_entry(product.feed_entry, order="append")
 
         fg.atom_file(f"../feeds/{slug}.atom", pretty=True)
 
 
 if __name__ == "__main__":
     ph = ProductHunt()
-    ph.generate_feed(title="All", slug="all", max_items=0, sort_by="votes")
+    ph.generate_feed(title="All", slug="all", max_items=0, only_featured=False)
     ph.generate_feed(
-        title="Featured", slug="all-featured", max_items=0, sort_by="featured"
+        title="Featured", slug="all-featured", max_items=0, only_featured=True
     )
