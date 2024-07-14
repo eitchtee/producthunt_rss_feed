@@ -49,8 +49,6 @@ class Product:
 <br />
 {self.tagline}
 <br />
-🔼 {self.votes_count} votes
-<br/>
 <br/> 
 <a href="{self.url}">[Product Hunt page]</a>
 <br />
