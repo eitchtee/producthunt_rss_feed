@@ -44,8 +44,7 @@ class Product:
         fe.id(self.url)
         fe.link({"href": self.url, "title": "Product Hunt", "rel": "alternate"})
         fe.content(
-            f"""
-<b>{self.name}</b>
+            f"""<b>{self.name}</b>
 <br />
 {self.tagline}
 <br />
