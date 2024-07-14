@@ -16,5 +16,5 @@ The missing feeds for Product Hunt
 > some feed readers. You can find the full feed content files [here](https://github.com/eitchtee/producthunt_rss_feed/tree/main/feeds).
 
 ## Considerations
-- Feeds are updated hourly
+- Feeds are updated every 3 hours
 - At most only 3 days of data is kept
