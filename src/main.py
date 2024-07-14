@@ -52,8 +52,7 @@ class Product:
 <a href="{self.url}">[Product Hunt page]</a>
 <br />
 <br />
-<a href="{self.website}">[Website]</a>
-        """,
+<a href="{self.website}">[Website]</a>""",
             type="html",
         )
 
