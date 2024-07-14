@@ -94,6 +94,8 @@ class ProductHunt:
 
         headers = {"Authorization": f"Bearer {self.token}"}
 
+        processed_ids = set()
+
         cursor = ""
         has_next_page = True
         date_after = (datetime.today() - timedelta(days=3)).strftime("%Y-%m-%d")
@@ -132,7 +134,9 @@ class ProductHunt:
             posts = data.get("nodes", {})
 
             for post in posts:
-                self.products.append(Product(**post))
+                if post["id"] not in processed_ids:
+                    self.products.append(Product(**post))
+                    processed_ids.add(post["id"])
 
             has_next_page = data.get("pageInfo", {}).get("hasNextPage", False)
             cursor = data.get("pageInfo", {}).get("endCursor", "")
