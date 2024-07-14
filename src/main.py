@@ -39,7 +39,6 @@ class Product:
         fe.author({"name": "Product Hunt"})
         fe.summary(self.tagline)
         fe.published(self.created_at)
-        fe.updated(self.featured_at)
         fe.title(self.full_name)
         fe.id(self.url)
         fe.link({"href": self.url, "title": "Product Hunt", "rel": "alternate"})
