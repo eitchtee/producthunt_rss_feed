@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.producthunt.com/</id>
   <title>Product Hunt - Featured</title>
-  <updated>2024-11-19T06:45:55.316404+00:00</updated>
+  <updated>2024-11-19T09:39:37.200465+00:00</updated>
   <author>
     <name>Product Hunt</name>
   </author>
@@ -12,9 +12,389 @@
   <logo>https://ph-static.imgix.net/ph-favicon-coral.ico</logo>
   <subtitle>Featured</subtitle>
   <entry>
+    <id>https://www.producthunt.com/posts/sendsheets?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>sendsheets  -  send personalized emails with google sheets</title>
+    <updated>2024-11-19T09:39:37.200769+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;sendsheets &lt;/b&gt;
+&lt;br /&gt;
+ send personalized emails with google sheets
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/sendsheets?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/7ML72PZUIICZUG?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/sendsheets?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary> send personalized emails with google sheets</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/moon-finder?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>moon finder - Little page that helps you find the moon.</title>
+    <updated>2024-11-19T09:39:37.200785+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;moon finder&lt;/b&gt;
+&lt;br /&gt;
+Little page that helps you find the moon.
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/moon-finder?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/LTKFI62W2E3OAX?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/moon-finder?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Little page that helps you find the moon.</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/marimo?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>marimo - The next-generation Python notebook</title>
+    <updated>2024-11-19T09:39:37.200795+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;marimo&lt;/b&gt;
+&lt;br /&gt;
+The next-generation Python notebook
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/marimo?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/TNWEJEBUHUTKI6?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/marimo?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>The next-generation Python notebook</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/zilliz-cloud-serverless?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Zilliz Cloud Serverless - Zero-ops vector database for GenAI developers</title>
+    <updated>2024-11-19T09:39:37.200804+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Zilliz Cloud Serverless&lt;/b&gt;
+&lt;br /&gt;
+Zero-ops vector database for GenAI developers
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/zilliz-cloud-serverless?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/HNUDK7FIGV426J?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/zilliz-cloud-serverless?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Zero-ops vector database for GenAI developers</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/whalesync-1-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Whalesync 1.0 - Do things you shouldn’t with spreadsheets</title>
+    <updated>2024-11-19T09:39:37.200813+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Whalesync 1.0&lt;/b&gt;
+&lt;br /&gt;
+Do things you shouldn’t with spreadsheets
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/whalesync-1-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/6Y3DJEIHLNOJTE?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/whalesync-1-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Do things you shouldn’t with spreadsheets</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/vozo-video-translator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Vozo Video Translator - Precise Video Translation, Perfected with AI Pilot</title>
+    <updated>2024-11-19T09:39:37.200822+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Vozo Video Translator&lt;/b&gt;
+&lt;br /&gt;
+Precise Video Translation, Perfected with AI Pilot
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/vozo-video-translator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/2P5PPCXU2FY4HE?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/vozo-video-translator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Precise Video Translation, Perfected with AI Pilot</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/superchat?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Superchat - AI Agents for WhatsApp Business, Instagram &amp; Co</title>
+    <updated>2024-11-19T09:39:37.200829+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Superchat&lt;/b&gt;
+&lt;br /&gt;
+AI Agents for WhatsApp Business, Instagram &amp; Co
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/superchat?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/CGBEIGQYU453HA?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/superchat?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>AI Agents for WhatsApp Business, Instagram &amp; Co</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/sandra-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Sandra AI - Multilingual voice AI receptionist for car dealers</title>
+    <updated>2024-11-19T09:39:37.200836+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Sandra AI&lt;/b&gt;
+&lt;br /&gt;
+Multilingual voice AI receptionist for car dealers
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/sandra-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/YFXFPDRCU7Z3K6?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/sandra-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Multilingual voice AI receptionist for car dealers</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/so-stats?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>SO Stats - Track Your Stack Overflow Activity</title>
+    <updated>2024-11-19T09:39:37.200844+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;SO Stats&lt;/b&gt;
+&lt;br /&gt;
+Track Your Stack Overflow Activity
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/so-stats?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/4GZCHWD3CXJOVA?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/so-stats?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Track Your Stack Overflow Activity</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/offerbutton-com?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>OfferButton.com - Sell your startup with 1 line of code </title>
+    <updated>2024-11-19T09:39:37.200851+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;OfferButton.com&lt;/b&gt;
+&lt;br /&gt;
+Sell your startup with 1 line of code 
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/offerbutton-com?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/MLJTQJGUA3JNPN?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/offerbutton-com?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Sell your startup with 1 line of code </summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/lightscreen-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Lightscreen AI - Uncheatable tech screens</title>
+    <updated>2024-11-19T09:39:37.200860+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Lightscreen AI&lt;/b&gt;
+&lt;br /&gt;
+Uncheatable tech screens
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/lightscreen-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/VBJ6WFCBDFWXTH?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/lightscreen-ai?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Uncheatable tech screens</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/heygen-ios-mobile-app?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>HeyGen - iOS Mobile App  - Advanced AI video tools for creators on the go.</title>
+    <updated>2024-11-19T09:39:37.200867+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;HeyGen - iOS Mobile App &lt;/b&gt;
+&lt;br /&gt;
+Advanced AI video tools for creators on the go.
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/heygen-ios-mobile-app?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/2CZCRK5GUXKSFG?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/heygen-ios-mobile-app?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Advanced AI video tools for creators on the go.</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/gofa-move-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>GOFA MOVE - AI-powered proactive care at your fingertips</title>
+    <updated>2024-11-19T09:39:37.200874+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;GOFA MOVE&lt;/b&gt;
+&lt;br /&gt;
+AI-powered proactive care at your fingertips
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/gofa-move-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/WF2Y3PNJEZ2X42?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/gofa-move-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>AI-powered proactive care at your fingertips</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/forta-firewall?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Forta Firewall - The onchain firewall that stops 99% of hacks in real-time</title>
+    <updated>2024-11-19T09:39:37.200881+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Forta Firewall&lt;/b&gt;
+&lt;br /&gt;
+The onchain firewall that stops 99% of hacks in real-time
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/forta-firewall?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/MOE5EFQJX2EZQC?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/forta-firewall?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>The onchain firewall that stops 99% of hacks in real-time</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/event-video-campaign-generator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Event Video Campaign Generator - Lights, camera, event-uation</title>
+    <updated>2024-11-19T09:39:37.200889+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Event Video Campaign Generator&lt;/b&gt;
+&lt;br /&gt;
+Lights, camera, event-uation
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/event-video-campaign-generator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/6BGJTBY46PPRMH?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/event-video-campaign-generator?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Lights, camera, event-uation</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/chatgpt-conversation-manager?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Chatgpt conversation manager - Manage and organize your ChatGPT conversations</title>
+    <updated>2024-11-19T09:39:37.200897+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Chatgpt conversation manager&lt;/b&gt;
+&lt;br /&gt;
+Manage and organize your ChatGPT conversations
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/chatgpt-conversation-manager?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/TO3W3I2FV6WU64?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/chatgpt-conversation-manager?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Manage and organize your ChatGPT conversations</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/blitzit-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Blitzit - A simple to-do list &amp; timer that gives you superpowers</title>
+    <updated>2024-11-19T09:39:37.200904+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Blitzit&lt;/b&gt;
+&lt;br /&gt;
+A simple to-do list &amp; timer that gives you superpowers
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/blitzit-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/KPE74HHDL2MEF7?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/blitzit-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>A simple to-do list &amp; timer that gives you superpowers</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/betterbugs-io?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>BetterBugs.io - Capture bugs, record sessions, and fix with AI</title>
+    <updated>2024-11-19T09:39:37.200911+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;BetterBugs.io&lt;/b&gt;
+&lt;br /&gt;
+Capture bugs, record sessions, and fix with AI
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/betterbugs-io?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/XPIZSNMRGUSSJE?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/betterbugs-io?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Capture bugs, record sessions, and fix with AI</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/attio-sequences?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Attio Sequences - Build email sequences that trigger on real prospect signals</title>
+    <updated>2024-11-19T09:39:37.200918+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Attio Sequences&lt;/b&gt;
+&lt;br /&gt;
+Build email sequences that trigger on real prospect signals
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/attio-sequences?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/NJFTRFINUXEVRC?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/attio-sequences?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Build email sequences that trigger on real prospect signals</summary>
+    <published>2024-11-19T08:01:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.producthunt.com/posts/ui-inspector-for-google-chrome?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>UI Inspector for Google Chrome - Edit web pages like Figma</title>
-    <updated>2024-11-19T06:45:55.316609+00:00</updated>
+    <updated>2024-11-19T09:39:37.200925+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -34,7 +414,7 @@ Edit web pages like Figma
   <entry>
     <id>https://www.producthunt.com/posts/turbolens?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>TurboLens - Fast, accurate OCR &amp; insights from any images.</title>
-    <updated>2024-11-19T06:45:55.316624+00:00</updated>
+    <updated>2024-11-19T09:39:37.200932+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -54,7 +434,7 @@ Fast, accurate OCR &amp; insights from any images.
   <entry>
     <id>https://www.producthunt.com/posts/read-ai-for-gmail?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Read AI for Gmail - Inbox AI</title>
-    <updated>2024-11-19T06:45:55.316634+00:00</updated>
+    <updated>2024-11-19T09:39:37.200939+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -74,7 +454,7 @@ Inbox AI
   <entry>
     <id>https://www.producthunt.com/posts/pulsetic-1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Pulsetic - Status pages and website uptime checker—no expert needed!</title>
-    <updated>2024-11-19T06:45:55.316643+00:00</updated>
+    <updated>2024-11-19T09:39:37.200946+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -94,7 +474,7 @@ Status pages and website uptime checker—no expert needed!
   <entry>
     <id>https://www.producthunt.com/posts/makeforms-workflows?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>MakeForms Workflows - Automate and streamline your form processes effortlessly.</title>
-    <updated>2024-11-19T06:45:55.316651+00:00</updated>
+    <updated>2024-11-19T09:39:37.200956+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -114,7 +494,7 @@ Automate and streamline your form processes effortlessly.
   <entry>
     <id>https://www.producthunt.com/posts/locofy-pro?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Locofy Pro - Build frontend 10x faster with design-to-code AI</title>
-    <updated>2024-11-19T06:45:55.316659+00:00</updated>
+    <updated>2024-11-19T09:39:37.200970+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -134,7 +514,7 @@ Build frontend 10x faster with design-to-code AI
   <entry>
     <id>https://www.producthunt.com/posts/layer_brain-inspired_planner?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Layer  - Brain-Inspired planner</title>
-    <updated>2024-11-19T06:45:55.316666+00:00</updated>
+    <updated>2024-11-19T09:39:37.200983+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -154,7 +534,7 @@ Brain-Inspired planner
   <entry>
     <id>https://www.producthunt.com/posts/gecko-security?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Gecko Security - Your AI Security Engineer</title>
-    <updated>2024-11-19T06:45:55.316673+00:00</updated>
+    <updated>2024-11-19T09:39:37.200991+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -174,7 +554,7 @@ Your AI Security Engineer
   <entry>
     <id>https://www.producthunt.com/posts/follow-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Follow - Follow your favorites in one inbox</title>
-    <updated>2024-11-19T06:45:55.316681+00:00</updated>
+    <updated>2024-11-19T09:39:37.200998+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -194,7 +574,7 @@ Follow your favorites in one inbox
   <entry>
     <id>https://www.producthunt.com/posts/fliz-v2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Fliz V2 - Take your video creation to the next level </title>
-    <updated>2024-11-19T06:45:55.316688+00:00</updated>
+    <updated>2024-11-19T09:39:37.201006+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -214,7 +594,7 @@ Take your video creation to the next level
   <entry>
     <id>https://www.producthunt.com/posts/dreamdisk?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>DreamDisk - Take control of your Mac storage</title>
-    <updated>2024-11-19T06:45:55.316696+00:00</updated>
+    <updated>2024-11-19T09:39:37.201013+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -234,7 +614,7 @@ Take control of your Mac storage
   <entry>
     <id>https://www.producthunt.com/posts/blanka?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Blanka - Start a beauty or cosmetic line in under 5 minutes</title>
-    <updated>2024-11-19T06:45:55.316704+00:00</updated>
+    <updated>2024-11-19T09:39:37.201020+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -254,7 +634,7 @@ Start a beauty or cosmetic line in under 5 minutes
   <entry>
     <id>https://www.producthunt.com/posts/bharatdiffusion?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>BharatDiffusion - Bringing India's culture to life with AI-Visuals</title>
-    <updated>2024-11-19T06:45:55.316712+00:00</updated>
+    <updated>2024-11-19T09:39:37.201027+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -274,7 +654,7 @@ Bringing India's culture to life with AI-Visuals
   <entry>
     <id>https://www.producthunt.com/posts/behind-in-depth?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Behind - in Depth - Depth Effect to your photo with color graded Background</title>
-    <updated>2024-11-19T06:45:55.316720+00:00</updated>
+    <updated>2024-11-19T09:39:37.201034+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -294,7 +674,7 @@ Depth Effect to your photo with color graded Background
   <entry>
     <id>https://www.producthunt.com/posts/beerme?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>BeerMe - A social payments app built on USDC</title>
-    <updated>2024-11-19T06:45:55.316734+00:00</updated>
+    <updated>2024-11-19T09:39:37.201042+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -314,7 +694,7 @@ A social payments app built on USDC
   <entry>
     <id>https://www.producthunt.com/posts/wins-2-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Wins 2.5 - A window manager like apple made</title>
-    <updated>2024-11-19T06:45:55.316748+00:00</updated>
+    <updated>2024-11-19T09:39:37.201048+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -334,7 +714,7 @@ A window manager like apple made
   <entry>
     <id>https://www.producthunt.com/posts/velocity-lapse?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Velocity Lapse - Create beautiful time-lapse videos of processes over time</title>
-    <updated>2024-11-19T06:45:55.316761+00:00</updated>
+    <updated>2024-11-19T09:39:37.201055+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -354,7 +734,7 @@ Create beautiful time-lapse videos of processes over time
   <entry>
     <id>https://www.producthunt.com/posts/spokk-8757ad37-92da-4156-ab05-1bbe320e88f3?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Spokk - Customer experience management for small businesses</title>
-    <updated>2024-11-19T06:45:55.316772+00:00</updated>
+    <updated>2024-11-19T09:39:37.201062+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -374,7 +754,7 @@ Customer experience management for small businesses
   <entry>
     <id>https://www.producthunt.com/posts/sharbo?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Sharbo - Effortless competitor product insights</title>
-    <updated>2024-11-19T06:45:55.316784+00:00</updated>
+    <updated>2024-11-19T09:39:37.201069+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -394,7 +774,7 @@ Effortless competitor product insights
   <entry>
     <id>https://www.producthunt.com/posts/pitchquick-co?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>PitchQuick.co - Stop wasting time on boring pitches</title>
-    <updated>2024-11-19T06:45:55.316798+00:00</updated>
+    <updated>2024-11-19T09:39:37.201076+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -414,7 +794,7 @@ Stop wasting time on boring pitches
   <entry>
     <id>https://www.producthunt.com/posts/nfrt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>NFRT - Non-Fungible Real Things</title>
-    <updated>2024-11-19T06:45:55.316809+00:00</updated>
+    <updated>2024-11-19T09:39:37.201083+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -434,7 +814,7 @@ Non-Fungible Real Things
   <entry>
     <id>https://www.producthunt.com/posts/momen?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Momen - Build your MVP and scale it, no code needed.</title>
-    <updated>2024-11-19T06:45:55.316821+00:00</updated>
+    <updated>2024-11-19T09:39:37.201090+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -454,7 +834,7 @@ Build your MVP and scale it, no code needed.
   <entry>
     <id>https://www.producthunt.com/posts/mikrotakt?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Mikrotakt - AI Vocal Remover &amp; Instrumental Isolation</title>
-    <updated>2024-11-19T06:45:55.316835+00:00</updated>
+    <updated>2024-11-19T09:39:37.201098+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -474,7 +854,7 @@ AI Vocal Remover &amp; Instrumental Isolation
   <entry>
     <id>https://www.producthunt.com/posts/marqueekit?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>MarqueeKit - Easy Infinite Scrolling Marquees</title>
-    <updated>2024-11-19T06:45:55.316843+00:00</updated>
+    <updated>2024-11-19T09:39:37.201105+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -494,7 +874,7 @@ Easy Infinite Scrolling Marquees
   <entry>
     <id>https://www.producthunt.com/posts/kidtivity-lab?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Kidtivity Lab - Your AI-Powered partner in creating fun activities for kids</title>
-    <updated>2024-11-19T06:45:55.316849+00:00</updated>
+    <updated>2024-11-19T09:39:37.201111+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -514,7 +894,7 @@ Your AI-Powered partner in creating fun activities for kids
   <entry>
     <id>https://www.producthunt.com/posts/android-dev-quest?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Android Dev Quest - A puzzle game solvable only using Android developer tools</title>
-    <updated>2024-11-19T06:45:55.316856+00:00</updated>
+    <updated>2024-11-19T09:39:37.201119+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -534,7 +914,7 @@ A puzzle game solvable only using Android developer tools
   <entry>
     <id>https://www.producthunt.com/posts/ai-game-master?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>AI Game Master  - Fully immersive DnD inspired experience powered by AI</title>
-    <updated>2024-11-19T06:45:55.316864+00:00</updated>
+    <updated>2024-11-19T09:39:37.201126+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -554,7 +934,7 @@ Fully immersive DnD inspired experience powered by AI
   <entry>
     <id>https://www.producthunt.com/posts/snippetx?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>SnippetX - Beautiful screenshots, made easy directly in your browser</title>
-    <updated>2024-11-19T06:45:55.316870+00:00</updated>
+    <updated>2024-11-19T09:39:37.201133+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -574,7 +954,7 @@ Beautiful screenshots, made easy directly in your browser
   <entry>
     <id>https://www.producthunt.com/posts/side-space?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Side Space - Your AI-powered vertical tabs manager for browsing</title>
-    <updated>2024-11-19T06:45:55.316877+00:00</updated>
+    <updated>2024-11-19T09:39:37.201141+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -594,7 +974,7 @@ Your AI-powered vertical tabs manager for browsing
   <entry>
     <id>https://www.producthunt.com/posts/protego-for-reddit?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Protego for Reddit - Safari extension to filter reddit posts on mac</title>
-    <updated>2024-11-19T06:45:55.316884+00:00</updated>
+    <updated>2024-11-19T09:39:37.201148+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -614,7 +994,7 @@ Safari extension to filter reddit posts on mac
   <entry>
     <id>https://www.producthunt.com/posts/octokit-1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Octokit - No-code game and AR filter creator for everyone</title>
-    <updated>2024-11-19T06:45:55.316891+00:00</updated>
+    <updated>2024-11-19T09:39:37.201156+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -634,7 +1014,7 @@ No-code game and AR filter creator for everyone
   <entry>
     <id>https://www.producthunt.com/posts/herodot-ai-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Herodot AI - Discover tales of any landmark with your AI local guide</title>
-    <updated>2024-11-19T06:45:55.316898+00:00</updated>
+    <updated>2024-11-19T09:39:37.201164+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -654,7 +1034,7 @@ Discover tales of any landmark with your AI local guide
   <entry>
     <id>https://www.producthunt.com/posts/font-tester-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Font Tester - Elevate your landing page with better Typography</title>
-    <updated>2024-11-19T06:45:55.316905+00:00</updated>
+    <updated>2024-11-19T09:39:37.201170+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
@@ -674,7 +1054,7 @@ Elevate your landing page with better Typography
   <entry>
     <id>https://www.producthunt.com/posts/alcove-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Alcove - Dynamic Island now for your</title>
-    <updated>2024-11-19T06:45:55.316911+00:00</updated>
+    <updated>2024-11-19T09:39:37.201182+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
