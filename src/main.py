@@ -1,6 +1,6 @@
 import os
+import re
 from datetime import datetime, timedelta
-from typing import Literal
 
 import requests
 from feedgen.entry import FeedEntry
@@ -20,8 +20,16 @@ class Product:
         website: str,
         **kwargs,
     ):
-        self.name = name
-        self.tagline = tagline
+        self.name = re.sub(
+            "[^\u0020-\uD7FF\u0009\u000A\u000D\uE000-\uFFFD\U00010000-\U0010FFFF]+",
+            "",
+            name,
+        )
+        self.tagline = re.sub(
+            "[^\u0020-\uD7FF\u0009\u000A\u000D\uE000-\uFFFD\U00010000-\U0010FFFF]+",
+            "",
+            tagline,
+        )
         self.url = url
         self.votes_count = votesCount
         self.featured_at = datetime.fromisoformat(featuredAt) if featuredAt else None
@@ -30,6 +38,17 @@ class Product:
         self.website = website
 
         self.full_name = f"{self.name} - {self.tagline}"
+
+        print(
+            self.name,
+            self.tagline,
+            self.url,
+            self.votes_count,
+            self.featured_at,
+            self.created_at,
+            self.id,
+            self.website,
+        )
 
         self.__dict__.update(kwargs)  # Add kwargs as class attributes just in case
 
