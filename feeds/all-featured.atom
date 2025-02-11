@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.producthunt.com/</id>
   <title>Product Hunt - Featured</title>
-  <updated>2025-02-11T12:58:14.045876+00:00</updated>
+  <updated>2025-02-11T15:39:03.957416+00:00</updated>
   <author>
     <name>Product Hunt</name>
   </author>
@@ -11,6 +11,26 @@
   <icon>https://ph-static.imgix.net/ph-favicon-coral.ico</icon>
   <logo>https://ph-static.imgix.net/ph-favicon-coral.ico</logo>
   <subtitle>Featured</subtitle>
+  <entry>
+    <id>https://www.producthunt.com/posts/amplitude-guides-and-surveys?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Amplitude Guides and Surveys - Drive user engagement with perfectly-timed messages.</title>
+    <updated>2025-02-11T14:00:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Amplitude Guides and Surveys&lt;/b&gt;
+&lt;br /&gt;
+Drive user engagement with perfectly-timed messages.
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/amplitude-guides-and-surveys?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/IW756YH3Q7EZXZ?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/amplitude-guides-and-surveys?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Drive user engagement with perfectly-timed messages.</summary>
+    <published>2025-02-11T14:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.producthunt.com/posts/zyphra-zonos?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
     <title>Zyphra Zonos - Highly expressive TTS model with high fidelity voice cloning</title>
@@ -33,14 +53,14 @@ Highly expressive TTS model with high fidelity voice cloning
   </entry>
   <entry>
     <id>https://www.producthunt.com/posts/tooljet-fbec1c40-d2b4-4b33-a450-bae02664676d?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>ToolJet - Build Custom AI-Powered Apps &amp; Agents Using AI</title>
+    <title>ToolJet - Build custom AI-powered apps &amp; agents using AI</title>
     <updated>2025-02-11T08:01:00+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
     <content type="html">&lt;b&gt;ToolJet&lt;/b&gt;
 &lt;br /&gt;
-Build Custom AI-Powered Apps &amp; Agents Using AI
+Build custom AI-powered apps &amp; agents using AI
 &lt;br /&gt;
 &lt;br/&gt; 
 &lt;a href="https://www.producthunt.com/posts/tooljet-fbec1c40-d2b4-4b33-a450-bae02664676d?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
@@ -48,7 +68,7 @@ Build Custom AI-Powered Apps &amp; Agents Using AI
 &lt;br /&gt;
 &lt;a href="https://www.producthunt.com/r/VFLTJOFHVZ3KG4?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
     <link href="https://www.producthunt.com/posts/tooljet-fbec1c40-d2b4-4b33-a450-bae02664676d?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Build Custom AI-Powered Apps &amp; Agents Using AI</summary>
+    <summary>Build custom AI-powered apps &amp; agents using AI</summary>
     <published>2025-02-11T08:01:00+00:00</published>
   </entry>
   <entry>
@@ -113,14 +133,14 @@ Organize SaaS contracts, track renewals &amp; get auto-reminders
   </entry>
   <entry>
     <id>https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Readdy - Your AI Product Designer. Beautiful UI + Ready-to-use Code</title>
+    <title>Readdy - Your AI product designer. Beautiful UI + Ready-to-use code</title>
     <updated>2025-02-11T08:01:00+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
     <content type="html">&lt;b&gt;Readdy&lt;/b&gt;
 &lt;br /&gt;
-Your AI Product Designer. Beautiful UI + Ready-to-use Code
+Your AI product designer. Beautiful UI + Ready-to-use code
 &lt;br /&gt;
 &lt;br/&gt; 
 &lt;a href="https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
@@ -128,7 +148,7 @@ Your AI Product Designer. Beautiful UI + Ready-to-use Code
 &lt;br /&gt;
 &lt;a href="https://www.producthunt.com/r/QIZ5FXHTKJ42KK?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
     <link href="https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Your AI Product Designer. Beautiful UI + Ready-to-use Code</summary>
+    <summary>Your AI product designer. Beautiful UI + Ready-to-use code</summary>
     <published>2025-02-11T08:01:00+00:00</published>
   </entry>
   <entry>
@@ -153,14 +173,14 @@ Video to LoRA made easy - High-quality consistent AI models
   </entry>
   <entry>
     <id>https://www.producthunt.com/posts/kamili?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Kamili - Make your website better with smart, friendly guidance</title>
+    <title>Kamili - Make Your Website Better with Friendly, AI-Powered Guidance.</title>
     <updated>2025-02-11T08:01:00+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
     <content type="html">&lt;b&gt;Kamili&lt;/b&gt;
 &lt;br /&gt;
-Make your website better with smart, friendly guidance
+Make Your Website Better with Friendly, AI-Powered Guidance.
 &lt;br /&gt;
 &lt;br/&gt; 
 &lt;a href="https://www.producthunt.com/posts/kamili?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
@@ -168,7 +188,7 @@ Make your website better with smart, friendly guidance
 &lt;br /&gt;
 &lt;a href="https://www.producthunt.com/r/YXMVR5XHXHLQMH?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
     <link href="https://www.producthunt.com/posts/kamili?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Make your website better with smart, friendly guidance</summary>
+    <summary>Make Your Website Better with Friendly, AI-Powered Guidance.</summary>
     <published>2025-02-11T08:01:00+00:00</published>
   </entry>
   <entry>
