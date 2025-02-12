@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.producthunt.com/</id>
   <title>Product Hunt - Featured</title>
-  <updated>2025-02-11T21:35:52.048620+00:00</updated>
+  <updated>2025-02-12T01:56:59.657120+00:00</updated>
   <author>
     <name>Product Hunt</name>
   </author>
@@ -129,26 +129,6 @@ Organize SaaS contracts, track renewals &amp; get auto-reminders
 &lt;a href="https://www.producthunt.com/r/JYF3MGSWXDFS5E?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
     <link href="https://www.producthunt.com/posts/renewal-tracker-by-stitchflow?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
     <summary>Organize SaaS contracts, track renewals &amp; get auto-reminders</summary>
-    <published>2025-02-11T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Readdy - Your AI product designer. Beautiful UI + Ready-to-use code</title>
-    <updated>2025-02-11T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;Readdy&lt;/b&gt;
-&lt;br /&gt;
-Your AI product designer. Beautiful UI + Ready-to-use code
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/QIZ5FXHTKJ42KK?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/readdy?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Your AI product designer. Beautiful UI + Ready-to-use code</summary>
     <published>2025-02-11T08:01:00+00:00</published>
   </entry>
   <entry>
@@ -570,105 +550,5 @@ AI interviews that turn your ideas into viral LinkedIn posts
     <link href="https://www.producthunt.com/posts/2pr-1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
     <summary>AI interviews that turn your ideas into viral LinkedIn posts</summary>
     <published>2025-02-09T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/tough-tongue-ai-2-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Tough Tongue AI 2.0 - A multimodal agent to create, share and rehearse scenarios</title>
-    <updated>2025-02-08T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;Tough Tongue AI 2.0&lt;/b&gt;
-&lt;br /&gt;
-A multimodal agent to create, share and rehearse scenarios
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/tough-tongue-ai-2-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/C3Y7DPZP7EDR6E?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/tough-tongue-ai-2-0?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>A multimodal agent to create, share and rehearse scenarios</summary>
-    <published>2025-02-08T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/mistral-small-3?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Mistral Small 3 - High performance in a 24b open-source model</title>
-    <updated>2025-02-08T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;Mistral Small 3&lt;/b&gt;
-&lt;br /&gt;
-High performance in a 24b open-source model
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/mistral-small-3?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/ESMGSFYSAC4HCL?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/mistral-small-3?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>High performance in a 24b open-source model</summary>
-    <published>2025-02-08T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/maxium-ai-v1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Maxium AI (V1) - Next-Gen AI DevOps engineer to run your engineering teams</title>
-    <updated>2025-02-08T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;Maxium AI (V1)&lt;/b&gt;
-&lt;br /&gt;
-Next-Gen AI DevOps engineer to run your engineering teams
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/maxium-ai-v1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/55LE7BMWIL7QGM?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/maxium-ai-v1?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Next-Gen AI DevOps engineer to run your engineering teams</summary>
-    <published>2025-02-08T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/krea-chat-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Krea Chat - The easiest way to generate with Al</title>
-    <updated>2025-02-08T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;Krea Chat&lt;/b&gt;
-&lt;br /&gt;
-The easiest way to generate with Al
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/krea-chat-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/TWHQJNAIVB3H3Z?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/krea-chat-2?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>The easiest way to generate with Al</summary>
-    <published>2025-02-08T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.producthunt.com/posts/justcms?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>JustCMS - AI-powered, affordable, headless cms</title>
-    <updated>2025-02-08T08:01:00+00:00</updated>
-    <author>
-      <name>Product Hunt</name>
-    </author>
-    <content type="html">&lt;b&gt;JustCMS&lt;/b&gt;
-&lt;br /&gt;
-AI-powered, affordable, headless cms
-&lt;br /&gt;
-&lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/justcms?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.producthunt.com/r/RN36BVWJODHD44?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/justcms?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>AI-powered, affordable, headless cms</summary>
-    <published>2025-02-08T08:01:00+00:00</published>
   </entry>
 </feed>
