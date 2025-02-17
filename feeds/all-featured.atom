@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.producthunt.com/</id>
   <title>Product Hunt - Featured</title>
-  <updated>2025-02-17T15:36:43.141343+00:00</updated>
+  <updated>2025-02-17T18:42:26.696438+00:00</updated>
   <author>
     <name>Product Hunt</name>
   </author>
@@ -112,23 +112,43 @@ One stop fintech software for banks &amp; NBFCs
     <published>2025-02-17T08:01:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.producthunt.com/posts/lora-local-llm-for-flutter?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
-    <title>Lora, Local LLM for Flutter - Add Lora with one line of code</title>
+    <id>https://www.producthunt.com/posts/make-europe-great-again?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Make Europe Great Again - eu/acc: a movement to deregulate and save Europe</title>
     <updated>2025-02-17T08:01:00+00:00</updated>
     <author>
       <name>Product Hunt</name>
     </author>
-    <content type="html">&lt;b&gt;Lora, Local LLM for Flutter&lt;/b&gt;
+    <content type="html">&lt;b&gt;Make Europe Great Again&lt;/b&gt;
 &lt;br /&gt;
-Add Lora with one line of code
+eu/acc: a movement to deregulate and save Europe
 &lt;br /&gt;
 &lt;br/&gt; 
-&lt;a href="https://www.producthunt.com/posts/lora-local-llm-for-flutter?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;a href="https://www.producthunt.com/posts/make-europe-great-again?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.producthunt.com/r/YEAOQB627GU3XR?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
+    <link href="https://www.producthunt.com/posts/make-europe-great-again?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>eu/acc: a movement to deregulate and save Europe</summary>
+    <published>2025-02-17T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.producthunt.com/posts/lora-3313593c-a2f1-4bd2-ba6f-098efaff9cc5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29</id>
+    <title>Lora - Integrate local LLM, with one line of code</title>
+    <updated>2025-02-17T08:01:00+00:00</updated>
+    <author>
+      <name>Product Hunt</name>
+    </author>
+    <content type="html">&lt;b&gt;Lora&lt;/b&gt;
+&lt;br /&gt;
+Integrate local LLM, with one line of code
+&lt;br /&gt;
+&lt;br/&gt; 
+&lt;a href="https://www.producthunt.com/posts/lora-3313593c-a2f1-4bd2-ba6f-098efaff9cc5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Product Hunt page]&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;a href="https://www.producthunt.com/r/6NUR62NNALKKQG?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"&gt;[Website]&lt;/a&gt;</content>
-    <link href="https://www.producthunt.com/posts/lora-local-llm-for-flutter?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
-    <summary>Add Lora with one line of code</summary>
+    <link href="https://www.producthunt.com/posts/lora-3313593c-a2f1-4bd2-ba6f-098efaff9cc5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+Product+Hunt+RSS+%28ID%3A+128748%29"/>
+    <summary>Integrate local LLM, with one line of code</summary>
     <published>2025-02-17T08:01:00+00:00</published>
   </entry>
   <entry>
