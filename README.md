@@ -1,3 +1,6 @@
+> [!WARNING]
+> ProductHunt placed Cloudflare Bot protection in front of their API, which is blocking this repository from working
+
 # Product Hunt RSS Feed
 The missing feeds for Product Hunt
 
