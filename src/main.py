@@ -95,13 +95,15 @@ class ProductHunt:
     def _generate_token(self) -> str:
         url = "https://api.producthunt.com/v2/oauth/token"
 
+        headers = {"User-Agent": "curl/7.64.1"}
+
         payload = {
             "client_id": self.client_id,
             "client_secret": self.client_secret,
             "grant_type": "client_credentials",
         }
 
-        response = requests.post(url, json=payload)
+        response = requests.post(url, json=payload, headers=headers)
 
         if response.status_code != 200:
             raise Exception(response.text)
@@ -111,7 +113,7 @@ class ProductHunt:
     def _fetch_products(self):
         url = "https://api.producthunt.com/v2/api/graphql"
 
-        headers = {"Authorization": f"Bearer {self.token}"}
+        headers = {"Authorization": f"Bearer {self.token}", "User-Agent": "curl/7.64.1"}
 
         processed_ids = set()
 
